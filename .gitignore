@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Raw / large datasets
+data/*.xlsx
+data/*.xls
+
+# Generated cleaned data
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
