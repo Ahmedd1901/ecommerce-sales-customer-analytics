@@ -1,0 +1,1 @@
+The business is highly concentrated in the UK, which accounts for 85.8% of total revenue, while international markets contribute 14.2%.
