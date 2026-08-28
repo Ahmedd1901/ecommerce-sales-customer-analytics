@@ -20,6 +20,12 @@ data/*.xls
 # Generated cleaned data
 data/*.csv
 
+# Database
+ecommerce.db
+
+# Learning / practice notebooks
+src/data_quality_learn.ipynb
+
 # OS files
 .DS_Store
 Thumbs.db
